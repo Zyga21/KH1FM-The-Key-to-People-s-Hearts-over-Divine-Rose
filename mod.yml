@@ -1,0 +1,203 @@
+title: 'Heartkey over Divine Rose'
+originalAuthor: 'Zyga'
+description: |-
+  Replaces the following Keyblades:
+  
+  Keyblade of People's Hearts -> Divine Rose [match length]
+game: kh1
+
+assets:
+  # Keyblade of People's Hearts custom remastered model -> Divine Rose
+  - method: copy
+    name: remastered/xw_ex_5070.wpn/-a840.cvbl
+    source:
+      - name: files/remastered_sources/alt_keyblade_of_peoples_hearts/00_-a840.cvbl
+
+  # Keyblade of People's Hearts custom remastered model -> Divine Rose
+  - method: copy
+    name: remastered/xw_ex_5070.wpn/-a940.dds
+    source:
+      - name: files/remastered_sources/alt_keyblade_of_peoples_hearts/01_-a940.dds
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014131.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011024.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014132.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011025.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014133.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011026.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014134.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011027.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014135.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011028.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014136.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011029.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014137.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011030.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014138.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011031.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014139.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011032.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014140.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011033.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014141.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011034.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014142.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011035.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014143.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011036.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014144.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011037.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014145.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011038.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014146.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011039.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014147.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011040.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014148.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011041.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014149.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011042.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014150.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011043.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014151.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011044.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014152.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011045.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014153.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011046.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014154.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011047.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014155.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011048.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014156.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011049.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014157.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011050.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014158.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011051.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014159.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011052.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014160.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011053.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014161.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011054.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014162.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011055.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014163.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011056.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014164.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011057.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5070.se/se014165.win32.scd
+    source:
+      - name: files/sounds/alt_keyblade_of_peoples_hearts/se011058.win32.scd
+
+  # Combined gameplay-data edits
+  - method: copy
+    name: btltbl.bin
+    package: kh1_first
+    source:
+      - name: files/btltbl.bin
+

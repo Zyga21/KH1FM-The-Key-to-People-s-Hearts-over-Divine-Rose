@@ -1,0 +1,22 @@
+{
+  "generatorVersion": "1.1.8",
+  "modName": "Heartkey over Divine Rose",
+  "author": "Zyga",
+  "generatedAt": "2026-09-29T13:18:26-06:00",
+  "replacements": [
+    {
+      "TargetId": "divine_rose",
+      "SourceId": "alt_keyblade_of_peoples_hearts",
+      "MatchLength": true,
+      "CustomStats": false,
+      "Stats": {
+        "Strength": 13,
+        "MP": 0,
+        "CritRateRaw": 40,
+        "CritBonus": 0,
+        "Recoil": 60,
+        "Reach": -3.3
+      }
+    }
+  ]
+}
